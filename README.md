@@ -23,5 +23,5 @@ A FastAPI-powered backend that provides personalized meal recommendations based 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/bmi-meal-recommender.git
+   git clone https://github.com/RabinAI/bmi-meal-recommender.git
    cd bmi-meal-recommender
