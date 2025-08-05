@@ -69,3 +69,19 @@ def recommend_meal(
         structured_meal_plan["note"] = " ".join(note_lines)
 
     return structured_meal_plan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
